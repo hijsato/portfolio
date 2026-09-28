@@ -3,22 +3,12 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: [
     '@nuxtjs/google-fonts',
-    '@nuxt/image',
-  ],
-  css: [
-    '~/assets/css/styles.scss'
   ],
   googleFonts: {
     families: {
-      Anton: [400],
-      'IBM Plex Mono': [300, 400, 500],
-      'Shippori Mincho': [500, 700],
-      'Zen Kaku Gothic New': [400, 500, 700],
+      'EB Garamond': { wght: [400], ital: [400] },
+      'Shippori Mincho': [400],
     },
     display: 'swap'
-  },
-  image: {
-    quality: 90,
-    format: ['webp']
   },
 })
