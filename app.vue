@@ -12,7 +12,7 @@ const image = `${url}/images/icon.png`
 useHead({
   htmlAttrs: { lang: 'ja' },
   title,
-  meta: [{ name: 'theme-color', content: '#0b0d10' }],
+  meta: [{ name: 'theme-color', content: '#ffffff' }],
   link: [
     { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' },
     { rel: 'apple-touch-icon', href: '/apple-touch-icon.png' },
