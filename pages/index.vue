@@ -38,7 +38,7 @@
     </section>
 
     <footer>
-      <a href="https://github.com/HijiriSato88" target="_blank" rel="noopener noreferrer">GitHub</a>
+      <a href="https://github.com/hijsato" target="_blank" rel="noopener noreferrer">GitHub</a>
       <a href="https://x.com/dxeynzdxiy8" target="_blank" rel="noopener noreferrer">X</a>
       <a href="mailto:satohiji0808@outlook.com">Email</a>
     </footer>
